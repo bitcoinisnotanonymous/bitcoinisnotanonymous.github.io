@@ -695,6 +695,8 @@ dt {
   font-weight: normal;
 }
 
+
+
 #header {
   z-index: 100;
   left: 0;
@@ -793,6 +795,9 @@ section #title {
   margin: 0 0 0px 0;
   padding: 0 0 5px 0;
 }
+
+
+
 section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -800,13 +805,21 @@ section #title h1 {
   text-align: center;
   line-height: 36px;
 }
+
+
+/*<p> that coints url address of the website */
 section #title p {
   color: #d7cfbe;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
+  margin-bottom: 3px;
 }
+
+
+
+
 section #title .credits {
   font-size: 11px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
