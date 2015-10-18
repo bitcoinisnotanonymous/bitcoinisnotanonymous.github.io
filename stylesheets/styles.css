@@ -808,7 +808,7 @@ section #title h1 {
 
 
 /*<p> that coints url address of the website */
-section #title p {
+section #title p{
   color: #d7cfbe;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -817,6 +817,19 @@ section #title p {
   margin-bottom: 3px;
 }
 
+/*<p> that coints footer the website */
+section #footer p{
+  color: #d7cfbe;
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+section #footer a {
+   color: #d7cfbe;
+}
 
 
 
