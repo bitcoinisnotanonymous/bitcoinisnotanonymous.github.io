@@ -1,4 +1,4 @@
-## Bitcion is NOT anonymous
+## Bitcoin is NOT anonymous
 
 There appears to be a massive misconception that Bitcoin is somehow
 anonymous, and it is the best payment method for those
