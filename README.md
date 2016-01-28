@@ -14,7 +14,6 @@ about Bitcoin anononymity and privacy was prepared.
 ## Links
 
 - [https://bitcoinisnotanonymous.github.io/](https://bitcoinisnotanonymous.github.io/)
-- [http://ucphth5lasyp4enj.onion/](http://ucphth5lasyp4enj.onion/)
 
 
 ## Comments, corrections, new links or suggestions
